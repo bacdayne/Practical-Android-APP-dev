@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ScrollingText</string>
+    <string name="article_title">The Future of Innovation</string>
+    <string name="article_subtitle">Exploring the Next Generation of Technology</string>
+    <string name="article_text">
+        <b>Technology</b> has transformed the world in unimaginable ways.\n\n
+        From the rise of <i>artificial intelligence</i> to the expansion of <b>space exploration</b>,\n
+        every breakthrough pushes humanity forward. However, innovation is not just about advancements—\n
+        it's about how we <i>adapt</i> to change and embrace the opportunities it presents.\n\n
+        The digital era has introduced concepts like <b><i>smart cities</i></b>, autonomous vehicles,\n
+        and quantum computing. Each of these developments paves the way for a more connected world,\n
+        where efficiency and sustainability go hand in hand.\n\n
+        If you're interested in learning more about emerging technologies, visit:\n
+        www.google.com
+    </string>
+</resources>
