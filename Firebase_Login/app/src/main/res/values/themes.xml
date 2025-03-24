@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Firebase_Login" parent="Theme.AppCompat.Light.DarkActionBar" />
+</resources>
